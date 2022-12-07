@@ -1,3 +1,5 @@
+- Original Author: vortisrd in github ❗
+
 # newtrewhud
 A new redesign trew_hud_ui for esx. It's a replic to a roleplay server. If you are the creator for this contact me.
 
